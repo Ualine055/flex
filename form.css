@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: whitesmoke;
+
+}
+
+form {
+    width: 500px;
+    
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+}
+table {
+    border: 1px solid black;
+}
